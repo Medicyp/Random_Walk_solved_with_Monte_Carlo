@@ -38,3 +38,4 @@ for walk_length in range(1, 31):
     no_transport_percentage = float(no_transport) / number_of_walks
     print('Walk size = ', walk_length, ' / % of no tranport = ', 100*no_transport_percentage)
 
+#credits: https://www.youtube.com/watch?v=BfS2H1y6tzQ&t=224s
